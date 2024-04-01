@@ -19,7 +19,7 @@ body {
 }
 
 body::before {
-  background-image: url("img/green-artificial-grass-textured-background.jpg");
+  background-image: url("");
   background-position: right;
   content: "";
   display: block;
