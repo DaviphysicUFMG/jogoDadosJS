@@ -9,7 +9,7 @@ let dados = [
 
 // Função para escolher aleatoriamente um elemento do array
 function escolherAleatoriamente(array) {
-  return array[parseInt(Math.random() * 5 + 1)];
+  return array[parseInt(Math.random() * 6)];
 }
 
 // Percorre os elementos da classe .dados_img e atribui aleatoriamente uma imagem de dados a cada um
